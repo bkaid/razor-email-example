@@ -1,0 +1,17 @@
+# build results
+[Bb]in/
+[Oo]bj/
+
+# test results
+TestResults/
+
+# ide
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# misc
+.DS_Store
